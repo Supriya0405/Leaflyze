@@ -60,12 +60,9 @@ The training uses CNN architecture for efficient feature extraction and classifi
 👩‍💻 Developed by
 
 Supriya Venkatasalapathi
-✨ B.Tech IT | AI & ML Enthusiast | Passionate about Smart Agriculture
+Pre-final year B.Tech IT | AWS Cloud | Linux  | MERN Stack Developer | Open to Internships & Collaborations
 
 📫 Connect:
-
-GitHub
-
 LinkedIn
 https://www.linkedin.com/in/supriya-v-026002287/
 
