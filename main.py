@@ -330,7 +330,7 @@ st.markdown("""
     </div>
 """, unsafe_allow_html=True)
 
-api_url = "http://localhost:8000"
+api_url = "https://leaflyze-backend.onrender.com"
 
 # Add some spacing
 st.markdown("<br>", unsafe_allow_html=True)
